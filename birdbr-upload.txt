@@ -1,0 +1,3 @@
+# BirdDB-Br upload destination, read by every BirdSuite station (scripts/sound_repo_upload.sh).
+# Put the address of the public Google Drive folder on the first line that does not start with #.
+# Empty = no upload: the clips stay in the station's local spool.
